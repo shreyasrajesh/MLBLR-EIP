@@ -1,0 +1,18 @@
+import numpy as np
+
+#weights_hidden = np.zeros((4,3), dtype = float)
+#bias_hidden = np.zeros(3, dtype = float)
+#weights_out = np.zeros(3, dtype = float)
+#bias_out = np.zeros(1, dtype = float)
+weights_hidden = np.random.rand(4,3)
+print("Hidden layer weights:\n", weights_hidden)
+print("\n")
+bias_hidden = np.random.rand(1,3)
+print("Hidden layer bias:\n", bias_hidden)
+print("\n")
+weights_out = np.random.rand(3,1)
+print("Output weights:\n", weights_out)
+print("\n")
+bias_out = np.random.rand(1)
+print("Output bias:\n", bias_out)
+print("\n")
