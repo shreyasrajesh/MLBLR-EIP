@@ -9,11 +9,11 @@ An interesting article explaining this better and in more detail is given below:
 # ACTIVATION FUNCTIONS
 Activation functions are essentially a functional mapping between the input and the output. This means that it converts the input after passing through the neural network into meaningful output. If no activation function is applied the output will be a simple linear function and the complexity of the prolem cannot be captured and the model will not be able to learn any of the required inputs(e.g. images, speech, text). So these activation functions provide the true power to the neural network models and help them learn whatever input is being provided. Another important note about activation functions is that they need to be differentiable as they need to be backpropogated through as well. The three most popular activation functions are:
 1. Sigmoid Function
-![alt text](https://cdn-images-1.medium.com/max/800/0*WYB0K0zk1MiIB6xp.png =400x300)
+![alt text](https://cdn-images-1.medium.com/max/800/0*WYB0K0zk1MiIB6xp.png =400x)
 2. Tanh - Hyperbolic Function
-![alt text](https://cdn-images-1.medium.com/max/800/0*VHhGS4NwibecRjIa.png =400x300)
+![alt text](https://cdn-images-1.medium.com/max/800/0*VHhGS4NwibecRjIa.png =400x)
 3. ReLU - Rectified Linear Units
-![alt text](https://cdn-images-1.medium.com/max/800/0*qtfLu9rmtNullrVC.png =600x300)
+![alt text](https://cdn-images-1.medium.com/max/800/0*qtfLu9rmtNullrVC.png =500x)
 
 Rectified Linear Units are further divided into multiple sub categories and a host of other activation functions are used as well, however these are the most commonly used 3 activation functions.
 Further information on activation functions can be obtained at the following link:
