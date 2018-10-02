@@ -1,5 +1,4 @@
 # NEURAL NETWORK MATH
-Note: Part A of the assignment can be found at the following [link](https://github.com/shreyasrajesh/MLBLR-EIP).
 ## 1. FORWARD PASS
 Random weights and biases generated from the python script. The link to the python script is [random_number_generator.py](https://github.com/shreyasrajesh/MLBLR-EIP/blob/master/random_number_generator.py). The values output by the script has been used below:
 |X||||wh|||bh|||hidden_layer_input|||hidden_layer_activations|||wout|bout|output_layer_input|output|y|E|
